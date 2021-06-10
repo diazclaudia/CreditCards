@@ -5,19 +5,18 @@
 
 ### Lenguages and Frameworks
 
-* Back: 
-  * Java 8
-  * Sprint Boot 2
+* Apis: 
+  * Java
+  * Sprint Boot
   * Hibernate
   * JWT
-  * DB H2 MySql
-
-* Front:
-  * Bootstrap
+  * DB MySql
 
 ### Diagrams
 
-#### Class Diagram
+![class](https://github.com/diazclaudia/CreditCards/blob/main/img/Diagram.png?raw=true)
 
-![Class Diagram]()
+![architecture](https://github.com/diazclaudia/CreditCards/blob/main/img/Architecture.png?raw=true)
+
+![login](https://github.com/diazclaudia/CreditCards/blob/main/img/loginSecuence.png?raw=true)
 
