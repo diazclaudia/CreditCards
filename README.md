@@ -10,7 +10,7 @@
   * Sprint Boot
   * Hibernate
   * JWT
-  * DB MySql
+  * DB embebed H2
 
 ### Diagrams
 
