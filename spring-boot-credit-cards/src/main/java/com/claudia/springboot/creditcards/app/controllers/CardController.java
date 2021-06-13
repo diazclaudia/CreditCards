@@ -26,7 +26,7 @@ public class CardController {
         this.cardRepository = cardRepository;
         this.clientRepository = clientRepository;
     }
-
+    
     
     @PostMapping("/{id}")
     public ResponseEntity<String> update(@RequestBody @Valid Card card, @PathVariable Integer id) {
