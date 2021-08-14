@@ -14,9 +14,8 @@
 
 ### Diagrams
 
-![class](https://github.com/diazclaudia/CreditCards/blob/main/img/classDiagram.png?raw=true)
+![class](https://github.com/diazclaudia/Feriados/blob/main/img/Architecture.png?raw=true)
 
-![architecture](https://github.com/diazclaudia/CreditCards/blob/main/img/Architecture.png?raw=true)
+![architecture](https://github.com/diazclaudia/Feriados/blob/main/img/classDiagramF.png?raw=true)
 
-![login](https://github.com/diazclaudia/CreditCards/blob/main/img/loginSecuence.png?raw=true)
 
